@@ -31,7 +31,7 @@ ValerioBarberShop è una piattaforma web moderna pensata per semplificare la ges
  – Miglioramenti UX/UI e notifiche
 
 - Design responsive
-- Email/SMS di conferma appuntamento
+- Email di conferma appuntamento
 - Gestione slot di disponibilità oraria
 
 
