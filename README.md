@@ -1,4 +1,4 @@
-# sinossi
+# Sinossi
 --> ValerioBarberShop – Il gestionale digitale per salona da parrucchiere
 
 ValerioBarberShop è una piattaforma web moderna pensata per semplificare la gestione quotidiana di un salone di parrucchiere. Consente ai clienti di visualizzare servizi, prenotare appuntamenti online e gestire i propri profili. Lo staff del salone può accedere a una dashboard riservata per tenere traccia delle prenotazioni e gestire l’agenda in modo pratico ed efficiente.
